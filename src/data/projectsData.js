@@ -17,7 +17,7 @@ export const projectsData = [
     infos:
     "'Réalisation d'un site vitrine pour le Cénacle d'Apkido / Sinkido, sur la base de la maquette fournie par le client ",
     img: "./assets/img/projet-2.jpeg",
-    link: "http://www.google.com",
+    link: "http://tmp.cenaclerm.fr/index.html",
   },
   {
     id: 3,
